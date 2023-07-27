@@ -16,3 +16,6 @@ Similarities between Tezos and Euthereun
 Differences:
 1) Tezos- self-ammending process while euthereum- soft and hard fork system
 2) Tezos- uses proof of stake consensus protocol while ethereum uses proof of work
+
+
+Ref: https://youtu.be/Umy75ihttwo 
