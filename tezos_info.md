@@ -5,9 +5,9 @@ Tezos token traded under the symbol xtz is also known as a tez. Tezos is not dep
 You can also unstake the tezos anytime for any reason for no lock-up period being unique to other staking methods.
 
 Biggest Problems for defy:
-1) Transactoion costs 
+1) Transaction costs 
 2) Self-ammendment process
-3) Smart contract
+3) Smart contracts
 
 Similarities between Tezos and Euthereun
 1) Both are blockchain based decentralized ledgers and smart contract platforms.
